@@ -28,6 +28,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+    color: #FF5E3A;
 }
 
 p {
@@ -267,11 +268,12 @@ a:focus {
 }
 
 .download-section {
+    margin-top: -15%;
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000;
+/*    background: url(http://i.imgur.com/VvhKqQQ.jpg) no-repeat center center scroll;
+*/    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
